@@ -14,7 +14,7 @@
 <a href="https://t.me/lanyadorkin" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="telegram" height="32" width="32" /></a></h3>
 
 <h3 align="left">Languages:
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg" alt="python" width="32" height="32"/> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="icons/python.svg" alt="python" width="32" height="32"/> 
 </a></h3>
 
 <h3 align="left">Tools:
