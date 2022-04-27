@@ -15,7 +15,6 @@
 
 <h3 align="left">Languages:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" width="96" height="24"/>
-<a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img align="center" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="r lang" width="72" height="24"/>
 <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img align="center" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" width="96" height="24"/>
 </a></h3>
 
@@ -29,6 +28,5 @@
 <h3 align="left">Tools:
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="git" width="96" height="24"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" width="72" height="24"/></a>
-<a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel" width="96" height="24"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="git" width="120" height="24"/></a>
 </h3>
