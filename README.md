@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" width="96" height="24"/>
-<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img align="center" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" width="96" height="24"/>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img align="center" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" width="96" height="24"/>
 </a></h3>
 
 <h3 align="left">Packages:
