@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Econ student keen on Programming from Russia 🇷🇺</h2>
 
-🌱 I’m currently learning **python** and **machine learning**
+<!-- 🌱 I’m currently learning **python** and **machine learning** -->
 
 📫 Reach me **danya.lorkin@gmail.com**
 
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:
 <a href="https://t.me/lanyadorkin" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" height="24" width="96" /></a></h3>
 
-<h3 align="left">Languages:
+<!-- <h3 align="left">Languages:
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" width="96" height="24"/>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img align="center" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" width="96" height="24"/>
 </a></h3>
@@ -29,4 +29,4 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="git" width="96" height="24"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" width="72" height="24"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="git" width="120" height="24"/></a>
-</h3>
+</h3> -->
