@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Danya
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">Econ student keen on Python from Russia 🇷🇺</h2>
+<h2 align="center">Econ student keen on Programming from Russia 🇷🇺</h2>
 
 🌱 I’m currently learning **python** and **machine learning**
 
