@@ -7,8 +7,8 @@
 📫 Reach me **danya.lorkin@gmail.com**
 
 <!-- - 📄 See my CV 
- -->
 🌍 I speak Russian (native), English (B2)
+-->
 
 <h3 align="left">Connect with me:
 <a href="https://t.me/lanyadorkin" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" height="24" width="96" /></a></h3>
